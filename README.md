@@ -1,2 +1,2 @@
 
-## Hi!  I'm Ka-Hyun, <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="30px"></h2>
+## Hi!  I'm Ka-Hyun <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
