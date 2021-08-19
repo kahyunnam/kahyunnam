@@ -8,6 +8,10 @@
 
 <h3> Check out my latest project: AppleCat </h3>
 <p> AppleCat is for internship applications, aka apple-cat-ions. </p>
-<img src = "login.png" height = "200">
-<img src = "apple.png" height = "200">
-<img src = "newapple.png" height = "200">
+<table>
+<tr>
+<td><img src = "login.png" height = "200"></td>
+<td><img src = "apple.png" height = "200"><td>
+<td><img src = "newapple.png" height = "200"><td>
+</tr>
+</table>
