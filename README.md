@@ -5,8 +5,8 @@
 <p> AppleCat is for internship applications, aka apple-cat-ions. </p>
 <table>
 <tr>
-<td><img src = "login.png" height = "200" width="220"></td>
-<td><img src = "apple.png" height = "200" width="220"><td>
-<td><img src = "newapple.png" height = "200" width="220"><td>
+<td><img src = "login.png" height = "200" width="250"></td>
+<td><img src = "apple.png" height = "200" width="250"><td>
+<td><img src = "newapple.png" height = "200" width="250"><td>
 </tr>
 </table>
